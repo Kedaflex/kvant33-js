@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "53338a983ef2e62b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbc3972aece0e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a33bcbb7176cbd58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b80b14b0af59eed",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d00031c1816567b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efcf465a3bb7e160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "995f57d708fab830",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "0ce2fdeed12acb1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f366678110267a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba29bebde7b52d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0346d3a28688add",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend/Блок 1 HTML — Структура страницы/01 - Как работает Web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 01 - Как работает Web"
+            }
+          },
+          {
+            "id": "80e37d071a53b1cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frontend/Блок 1 HTML — Структура страницы/01 - Как работает Web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 01 - Как работает Web"
+            }
+          },
+          {
+            "id": "962de4a7eceb1c4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3314d28d5cf170a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "602a55208ff86709",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frontend/Блок 1 HTML — Структура страницы/01 - Как работает Web.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 01 - Как работает Web"
+            }
+          },
+          {
+            "id": "012b1648348f4c66",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "efcf465a3bb7e160",
+  "lastOpenFiles": [
+    "Frontend",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/008 — Атрибуты тегов.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/007 — Теги и элементы.md",
+    "Frontend/00 - Главная.md",
+    "Без названия.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/022 — 🏗️ Практика — Статья в HTML.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/021 — Спецсимволы и комментарии.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/020 — Цитаты и код.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/019 — Списки определений.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/018 — Нумерованные списки.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/017 — Маркированные списки.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/016 — Форматы изображений.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/015 — Изображения.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/014 — Абсолютные и относительные пути.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/013 — Ссылки.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/012 — Форматирование текста (часть 2).md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/011 — Форматирование текста (часть 1).md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/010 — Абзацы и переносы.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/009 — Заголовки h1–h6.md",
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006/001 — Кто такой веб-разработчик.md",
+    "00 — Главная.md",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006/002 — Как работает интернет.md",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006/003 — Как работает браузер.md",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006/004 — Установка VS Code.md",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006/005 — Первая HTML-страница.md",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006/006 — Как устроен .html файл.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Frontend/Модуль 0. Стартовая площадка уроки 001–006",
+    "Frontend/Блок 1 HTML — Структура страницы",
+    "Frontend/Блок 1 HTML — Структура",
+    "Frontend"
+  ]
+}
