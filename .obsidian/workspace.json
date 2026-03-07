@@ -152,17 +152,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Блок 1 HTML — Структура страницы/01 - Как работает Web.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 - Как работает Web"
+              "title": "Структура"
             }
           },
           {
-            "id": "012b1648348f4c66",
+            "id": "fb1e5b816a2b45a0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -190,11 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efcf465a3bb7e160",
+  "active": "a33bcbb7176cbd58",
   "lastOpenFiles": [
+    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/007 — Теги и элементы.md",
     "Frontend",
     "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/008 — Атрибуты тегов.md",
-    "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/007 — Теги и элементы.md",
     "Frontend/00 - Главная.md",
     "Без названия.md",
     "Frontend/Модуль 1. HTML — Текст и структура уроки 007–022Модуль 1. HTML — Текст и структура уроки 007–022/022 — 🏗️ Практика — Статья в HTML.md",
